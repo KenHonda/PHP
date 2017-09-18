@@ -1,0 +1,120 @@
+span {font-size: 12px;}
+
+body {background-color: #f6f8fa;
+   margin: 0 0 0 0;}
+
+/* ヘッダー */
+
+div.header {
+        background-color: #fff;
+        color: #69757e;
+        width: 100%;
+        font-size: 13.5px;
+        height: 3em;
+        line-height: 3em;
+        border-bottom: 1.7px solid #d1d3d5;}
+
+
+div.aa1 {float: left;
+         margin-left: 118px;
+         font-size: 20px;
+
+         }
+
+
+div.aa2 {float:left;
+         font-size: 14px;
+
+        }
+
+div.aa3 {float:left;
+         font-size: 14px;
+
+        }
+
+div.aba {float: left;
+
+         }
+
+
+a {text-decoration: none;
+   color: #69757e;}
+
+a:visited {color: #69757e;}
+
+div.bird  {float:left;
+           margin-top: 8px;
+           margin-left:21%;}
+
+div.bbb  {text-align: right;
+          margin-right: 118px;}
+
+img.egg   {padding-top:7px;
+           padding-bottom:7px;
+           padding-left: 10px;}
+img.wing  {padding-top:7px;
+           padding-bottom: 7px;
+           padding-left: 12px}
+
+/* メイン */
+
+div.main {color: #69757e;
+          margin-top: 10px;
+          margin-left: 118px;
+          margin-right: 118px;}
+
+/* 左側 */
+
+div.ddd {clear: both;
+        float:left;
+        background-color: #fff;
+        width: 285px;
+        border: 1px solid #e2e8ec;}
+
+div.ooo {margin-top: 0;
+         background-color: #48a1eb;
+         padding-bottom: 26px;}
+
+div.yyy {float:left;
+         margin-top: -28px;
+         margin-left: 8px;
+         border: solid 3px #fff;}
+
+div.lll {color: #000;
+        font-size: 17.5px;
+        margin:7px auto auto 85px;}
+
+div.ggg {color: #69757e;
+         font-size: 12.5px;
+         margin-top: -3px}
+/* 投稿一覧 */
+
+div.eee {float:left;
+         background-color: #fff;
+         margin-left: 11px;
+         width: 590px;
+         border: 1px solid #e2e8ec;}
+
+div.iii  {padding-bottom: 5px;
+          background-color: #eaf5fc;
+          border-bottom: 1px solid #e2e8ec;}
+
+
+input.name {font-size: 14px;
+           border: 0.5px solid #cce6f9;
+           margin-top: 14px;
+           margin-left: 30px;
+           padding-left: 10px;
+           padding-top: 5.5px;
+           padding-bottom: 5.5px;}
+
+textarea  {font-size: 14px;
+           border: 0.5px solid #cce6f9;
+           margin-top: 10px;
+           margin-left: 30px;
+           padding-left: 10px;
+           padding-top: 5.5px;
+           padding-bottom: 5.5px;
+           }
+
+div.ttt {padding-bottom: 1000px;}
